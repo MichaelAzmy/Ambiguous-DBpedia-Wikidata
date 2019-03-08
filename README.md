@@ -1,5 +1,6 @@
 # ambiguous-dbwd
-Dataset for ambiguous entity mapping across DBpedia and Wikidata
+- Dataset for ambiguous entity mapping across DBpedia and Wikidata
+- Each query has a list of candidates such that all the candidates have the exact label of the query.
 
 ## Dataset Format
 - There are two datasets:
